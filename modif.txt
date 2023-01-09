@@ -1,0 +1,12 @@
+- Inscription : mot de passe pas sécurisé
+"j'ai saler" mon mot de passe puis j'ai ajouté un validator isPasswordStrong pour le rendre plus difficile 
+
+ -mail non conforme - 48h <finis>
+
+- Possibilité de s'inscrire avec un espace vide en tant que mail et mot de passe - 48h <finis>
+solution pour les mails vides ou non comforme ajout du pckage validator permettant d'avoir accès a isEmail => qui verifie si notre string est un email
+
+
+- On peut liker/disliker plusieurs fois en rejouant la requête XHR - 48h <finis>
+
+- Modification ne fonctionne pas du tout - 48h + suppression (finis)
